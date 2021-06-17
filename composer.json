@@ -1,0 +1,12 @@
+{
+  "name": "boris/lab3-bmirt",
+  "authors": [
+    {
+      "name": "Boris Mirtskhulava",
+      "email": "mircxu1898@gmail.com"
+    }
+  ],
+  "require": {
+    "phpmailer/phpmailer": "^6.4"
+  }
+}
